@@ -1,7 +1,7 @@
 
 (function() {
 
-const API_PATH = "http://jservice.io/api";
+const API_PATH = "https://cors-anywhere.herokuapp.com/http://jservice.io/api";
 const MAX_RESULTS = 30;
 
 const main = $("main");
