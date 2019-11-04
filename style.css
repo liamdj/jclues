@@ -1,0 +1,43 @@
+body {
+   background-color: darkblue;
+   color: white;
+   text-align: center;
+   justify-content: center;
+}
+
+input {
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+}
+
+.search-container input {
+   display: block;
+}
+.title, .question, .answer {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+}
+
+.category-q {
+   float: left;
+}
+
+.value {
+   color: gold;
+   float: center;
+}
+
+.date {
+   float: right;
+}
+
+ul {
+   text-align: center;
+   margin-left: 30%;
+   margin-right: 30%;
+}
+   
+li {
+   display: block;
+}
